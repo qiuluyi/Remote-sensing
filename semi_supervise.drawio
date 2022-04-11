@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T08:18:27.998Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 Edg/85.0.564.44" etag="mjdXbFHjpg02O2w0YFQY" version="17.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-11T08:20:54.833Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 Edg/85.0.564.44" etag="wADBBaMQEKqyNpm13P0H" version="17.4.1" type="github" pages="2">
   <diagram id="C4njx81NWTeYIaaPmCJN" name="Page-1">
     <mxGraphModel dx="2537" dy="1520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -586,7 +586,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="c4Ffm-zqJ3MffxuhpTDP" name="Page-2">
-    <mxGraphModel dx="2594" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2191" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1113,6 +1113,24 @@
         </mxCell>
         <mxCell id="9yb__nzzOLb85DqZzCaj-228" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;font face=&quot;times new roman&quot;&gt;&lt;b&gt;AvgPool (Stride=2)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="8" y="695" width="154" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9yb__nzzOLb85DqZzCaj-229" value="C" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-38" y="730.88" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9yb__nzzOLb85DqZzCaj-230" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;&lt;font face=&quot;times new roman&quot;&gt;&lt;b&gt;Concat&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="6" y="725.88" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9yb__nzzOLb85DqZzCaj-231" value="D" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-38" y="763" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9yb__nzzOLb85DqZzCaj-232" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;div&gt;Dense Connect&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="6" y="757" width="123" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9yb__nzzOLb85DqZzCaj-233" value="M" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-38" y="795" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9yb__nzzOLb85DqZzCaj-234" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;div&gt;&lt;div&gt;Maximum fusion mechanism&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="6.5" y="789" width="193.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
