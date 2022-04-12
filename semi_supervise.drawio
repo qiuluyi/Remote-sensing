@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T08:46:19.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 Edg/85.0.564.44" etag="Ua-kOgpUvNIpJg4QI0MP" version="17.4.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-12T08:49:02.306Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 Edg/85.0.564.44" etag="GX3zIUlPUGgh5bKuBRWb" version="17.4.2" type="github" pages="4">
   <diagram id="C4njx81NWTeYIaaPmCJN" name="Page-1">
     <mxGraphModel dx="2858" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1307,7 +1307,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Av91dfJ6IGI3K52ZTQDB" name="Page-4">
-    <mxGraphModel dx="948" dy="1694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1646" dy="2081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2177,8 +2177,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pzcT_zApDrA3USZOxMBB-162" value="&lt;font face=&quot;Times New Roman&quot;&gt;Patch Merging&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="244" y="174" width="90" height="20" as="geometry" />
+        <mxCell id="pzcT_zApDrA3USZOxMBB-162" value="&lt;font face=&quot;Times New Roman&quot;&gt;Linear Embedding&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="238" y="174" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pzcT_zApDrA3USZOxMBB-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=12;endArrow=block;endFill=1;" edge="1" parent="1" source="pzcT_zApDrA3USZOxMBB-164" target="pzcT_zApDrA3USZOxMBB-166">
           <mxGeometry relative="1" as="geometry" />
@@ -2441,6 +2441,9 @@
         </mxCell>
         <mxCell id="pzcT_zApDrA3USZOxMBB-219" value="&lt;font face=&quot;Times New Roman&quot;&gt;Patch Merging&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1083" y="1065.03" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pzcT_zApDrA3USZOxMBB-222" value="&lt;font face=&quot;Times New Roman&quot;&gt;Patch Partition&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="245" y="135" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
