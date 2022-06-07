@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T02:07:18.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="Lu2kiJ7DBszW4YCQqAEu" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-07T02:09:24.333Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="6YO4o3JPj8tx9Kpv9vGJ" version="19.0.0" type="github">
   <diagram id="gGKfs624ZoIAn7rQQ0ZB" name="Page-1">
-    <mxGraphModel dx="360" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="319" dy="341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -113,7 +113,7 @@
           <mxGeometry x="366" y="210" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1LoJLC8qdSCMFV3QiTnw-15" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Linear Projection&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="360" y="84" width="150" height="40" as="geometry" />
+          <mxGeometry x="366" y="82" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1LoJLC8qdSCMFV3QiTnw-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=18;endArrow=none;endFill=0;startArrow=block;startFill=1;" edge="1" parent="1" source="1LoJLC8qdSCMFV3QiTnw-16" target="1LoJLC8qdSCMFV3QiTnw-14">
           <mxGeometry relative="1" as="geometry" />
@@ -121,7 +121,7 @@
         <mxCell id="1LoJLC8qdSCMFV3QiTnw-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=18;startArrow=none;startFill=0;endArrow=block;endFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1LoJLC8qdSCMFV3QiTnw-16" target="1LoJLC8qdSCMFV3QiTnw-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1LoJLC8qdSCMFV3QiTnw-16" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Linear Embedding&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="1LoJLC8qdSCMFV3QiTnw-16" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Patch Embedding&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="361" y="143" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1LoJLC8qdSCMFV3QiTnw-17" value="&lt;font size=&quot;1&quot; style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Swin transformer&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
@@ -166,7 +166,7 @@
         <mxCell id="1LoJLC8qdSCMFV3QiTnw-23" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Patch Merging&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="376" y="517" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1LoJLC8qdSCMFV3QiTnw-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=18;endArrow=block;endFill=1;" edge="1" parent="1" source="1LoJLC8qdSCMFV3QiTnw-24" target="1LoJLC8qdSCMFV3QiTnw-13">
+        <mxCell id="1LoJLC8qdSCMFV3QiTnw-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=18;endArrow=none;endFill=0;startArrow=block;startFill=1;" edge="1" parent="1" source="1LoJLC8qdSCMFV3QiTnw-24" target="1LoJLC8qdSCMFV3QiTnw-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1LoJLC8qdSCMFV3QiTnw-24" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Patch Merging&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
