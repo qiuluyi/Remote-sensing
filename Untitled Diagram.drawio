@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T02:06:33.142Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="2VEpksqjDliiqFBzNkSM" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-07T02:07:18.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="Lu2kiJ7DBszW4YCQqAEu" version="19.0.0" type="github">
   <diagram id="gGKfs624ZoIAn7rQQ0ZB" name="Page-1">
-    <mxGraphModel dx="485" dy="349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="360" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -112,8 +112,8 @@
         <mxCell id="1LoJLC8qdSCMFV3QiTnw-14" value="&lt;font size=&quot;1&quot; style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Swin transformer&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="366" y="210" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1LoJLC8qdSCMFV3QiTnw-15" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Patch Partition&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="376" y="84" width="120" height="40" as="geometry" />
+        <mxCell id="1LoJLC8qdSCMFV3QiTnw-15" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Linear Projection&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="360" y="84" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1LoJLC8qdSCMFV3QiTnw-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=18;endArrow=none;endFill=0;startArrow=block;startFill=1;" edge="1" parent="1" source="1LoJLC8qdSCMFV3QiTnw-16" target="1LoJLC8qdSCMFV3QiTnw-14">
           <mxGeometry relative="1" as="geometry" />
